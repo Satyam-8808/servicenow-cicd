@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>GitHub</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>GitHub</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>kumarsatyam</sys_created_by>
+        <sys_created_on>2025-03-22 13:39:12</sys_created_on>
+        <sys_id>f70d47f783d0aa5015d4b6a6feaad376</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GitHub</sys_name>
+        <sys_package display_value="CI CD Demo" source="65f8cb7383d0aa5015d4b6a6feaad3ea">65f8cb7383d0aa5015d4b6a6feaad3ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CI CD Demo">65f8cb7383d0aa5015d4b6a6feaad3ea</sys_scope>
+        <sys_update_name>sys_alias_f70d47f783d0aa5015d4b6a6feaad376</sys_update_name>
+        <sys_updated_by>kumarsatyam</sys_updated_by>
+        <sys_updated_on>2025-03-22 13:39:12</sys_updated_on>
+        <type>credential</type>
+    </sys_alias>
+</record_update>
